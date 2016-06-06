@@ -1,0 +1,14 @@
+{
+    "name": "chefboyronron/php_tools",
+    "autoload": {
+        "psr-0" : {
+            "chefboyronron\\php_tools" : "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/chefboyronron/php_tools.git"
+        }
+    ]
+}
