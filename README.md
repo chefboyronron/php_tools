@@ -1,5 +1,4 @@
 ## Compilation of PHP usefull scripts
-
 > Including.
 
 * Generate uninq hash/transaction number (AJAX/PHP) (SQLite, MySQL).
