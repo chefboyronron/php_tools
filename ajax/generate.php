@@ -15,7 +15,7 @@ if(isset($_POST['mode'])){
 		$generate = new Generate();
 		$code = $generate->generateCode(
 			array(
-				"db_name" => "test",
+				"db_name" => "../test.db",
 				"table_name" => "files",
 				"ai_column" => "id", // nums be datatype(int) and Auto Incremented
 				"base_format" => $base_format,
